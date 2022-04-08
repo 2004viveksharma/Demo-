@@ -4,7 +4,7 @@ This is related to demo of the project
     <head>
         <title> Sample Form</title>
     </head>
-    <body bgcolor="pink">
+    <body bgcolor="pink" background = "cyan">
     <fieldset>
         <legend> <h1>Chitkara Registration Form</h1></legend>
     
